@@ -1,0 +1,20 @@
+{
+  "name": "inputlist",
+  "version": "1.0.1",
+  "description": "input list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "element",
+    "input"
+  ],
+  "author": "crabr",
+  "license": "ISC",
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "element-plus": "^2.2.32",
+    "vue": "^3.2.45"
+  }
+}
